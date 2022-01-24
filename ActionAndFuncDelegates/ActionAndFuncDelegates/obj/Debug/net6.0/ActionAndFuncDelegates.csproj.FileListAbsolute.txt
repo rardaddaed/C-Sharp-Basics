@@ -1,0 +1,15 @@
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.exe
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.deps.json
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.runtimeconfig.json
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.dll
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ref\ActionAndFuncDelegates.dll
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net6.0\ActionAndFuncDelegates.pdb
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.csproj.AssemblyReference.cache
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.AssemblyInfo.cs
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.dll
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ref\ActionAndFuncDelegates.dll
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.pdb
+C:\repos\C#Basics\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net6.0\ActionAndFuncDelegates.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.exe
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.deps.json
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.runtimeconfig.json
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.dll
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\ref\BasicDelegates.dll
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\bin\Debug\net6.0\BasicDelegates.pdb
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.csproj.AssemblyReference.cache
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.AssemblyInfoInputs.cache
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.AssemblyInfo.cs
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.csproj.CoreCompileInputs.cache
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.dll
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\ref\BasicDelegates.dll
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.pdb
+C:\repos\C#Basics\BasicDelegates\BasicDelegates\obj\Debug\net6.0\BasicDelegates.genruntimeconfig.cache
