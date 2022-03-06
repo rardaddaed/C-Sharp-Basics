@@ -1,0 +1,7 @@
+E:\Source\LargestProductInASeries\LargestProductInASeries\obj\Debug\LargestProductInASeries.csprojAssemblyReference.cache
+E:\Source\LargestProductInASeries\LargestProductInASeries\obj\Debug\LargestProductInASeries.csproj.CoreCompileInputs.cache
+E:\Source\LargestProductInASeries\LargestProductInASeries\bin\Debug\LargestProductInASeries.exe.config
+E:\Source\LargestProductInASeries\LargestProductInASeries\bin\Debug\LargestProductInASeries.exe
+E:\Source\LargestProductInASeries\LargestProductInASeries\bin\Debug\LargestProductInASeries.pdb
+E:\Source\LargestProductInASeries\LargestProductInASeries\obj\Debug\LargestProductInASeries.exe
+E:\Source\LargestProductInASeries\LargestProductInASeries\obj\Debug\LargestProductInASeries.pdb
