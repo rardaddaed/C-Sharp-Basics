@@ -1,0 +1,7 @@
+E:\Source\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.exe.config
+E:\Source\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.exe
+E:\Source\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+E:\Source\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.csprojAssemblyReference.cache
+E:\Source\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+E:\Source\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.exe
+E:\Source\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.pdb
