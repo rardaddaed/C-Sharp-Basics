@@ -1,0 +1,7 @@
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe.config
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.pdb
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csprojAssemblyReference.cache
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.exe
+E:\Source\LargestPrimeFactor\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.pdb
