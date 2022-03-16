@@ -1,0 +1,15 @@
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\MinimumDistance.exe
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\MinimumDistance.deps.json
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\MinimumDistance.runtimeconfig.json
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\MinimumDistance.dll
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\ref\MinimumDistance.dll
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\bin\Debug\net6.0\MinimumDistance.pdb
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.csproj.AssemblyReference.cache
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.AssemblyInfoInputs.cache
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.AssemblyInfo.cs
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.csproj.CoreCompileInputs.cache
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.dll
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\ref\MinimumDistance.dll
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.pdb
+C:\repos\C#Basics\MinimumDistance\MinimumDistance\obj\Debug\net6.0\MinimumDistance.genruntimeconfig.cache
